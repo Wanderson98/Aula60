@@ -1,0 +1,16 @@
+C:\temp\ws-vs2022\CastGroup\Aula60\Aula60Exe10\bin\Debug\net5.0\Aula60Exe10.exe
+C:\temp\ws-vs2022\CastGroup\Aula60\Aula60Exe10\bin\Debug\net5.0\Aula60Exe10.deps.json
+C:\temp\ws-vs2022\CastGroup\Aula60\Aula60Exe10\bin\Debug\net5.0\Aula60Exe10.runtimeconfig.json
+C:\temp\ws-vs2022\CastGroup\Aula60\Aula60Exe10\bin\Debug\net5.0\Aula60Exe10.runtimeconfig.dev.json
+C:\temp\ws-vs2022\CastGroup\Aula60\Aula60Exe10\bin\Debug\net5.0\Aula60Exe10.dll
+C:\temp\ws-vs2022\CastGroup\Aula60\Aula60Exe10\bin\Debug\net5.0\Aula60Exe10.pdb
+C:\temp\ws-vs2022\CastGroup\Aula60\Aula60Exe10\obj\Debug\net5.0\Aula60Exe10.csproj.AssemblyReference.cache
+C:\temp\ws-vs2022\CastGroup\Aula60\Aula60Exe10\obj\Debug\net5.0\Aula60Exe10.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\CastGroup\Aula60\Aula60Exe10\obj\Debug\net5.0\Aula60Exe10.AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\CastGroup\Aula60\Aula60Exe10\obj\Debug\net5.0\Aula60Exe10.AssemblyInfo.cs
+C:\temp\ws-vs2022\CastGroup\Aula60\Aula60Exe10\obj\Debug\net5.0\Aula60Exe10.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\CastGroup\Aula60\Aula60Exe10\obj\Debug\net5.0\Aula60Exe10.dll
+C:\temp\ws-vs2022\CastGroup\Aula60\Aula60Exe10\obj\Debug\net5.0\refint\Aula60Exe10.dll
+C:\temp\ws-vs2022\CastGroup\Aula60\Aula60Exe10\obj\Debug\net5.0\Aula60Exe10.pdb
+C:\temp\ws-vs2022\CastGroup\Aula60\Aula60Exe10\obj\Debug\net5.0\Aula60Exe10.genruntimeconfig.cache
+C:\temp\ws-vs2022\CastGroup\Aula60\Aula60Exe10\obj\Debug\net5.0\ref\Aula60Exe10.dll
