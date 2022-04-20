@@ -24,7 +24,7 @@ namespace Aula60Exe84
 
             for (int i = 0; i < tamVetor; i++)
             {
-                Console.WriteLine($"Resultado Da Soma do VetorA na casa[{i}] e do Vetor B na casa[{i}] é : {vetorSoma[i]}");
+                Console.WriteLine($"Resultado Da Soma do VetorA na Posição[{i}] e do Vetor B na Posição[{i}] é : {vetorSoma[i]}");
             }
         }
     }
