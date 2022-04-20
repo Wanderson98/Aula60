@@ -6,7 +6,7 @@ namespace Aula60Exe90
     {
         static void Main(string[] args)
         {
-            double[] vetorA = new double[5];
+            double[] vetorA = new double[30];
             int contador = 0;
 
             for (int i = 0; i < vetorA.Length; i++)
